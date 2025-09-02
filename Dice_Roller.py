@@ -1,5 +1,5 @@
 # Dice Roller Game Version 0.0.0
-# Copyright (c) 2025 Yassine Azmi
+# Copyright (c) 2025 Z_yx2
 # Licensed under the MIT License
 
 import tkinter as tk
